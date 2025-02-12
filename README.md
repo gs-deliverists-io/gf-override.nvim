@@ -2,6 +2,8 @@
 
 Enhanced `gf` command for Neovim that allows creating non-existent files.
 
+https://github.com/user-attachments/assets/005d2651-2b7a-4dba-87f4-2cbcae49f2e0
+
 ## Features
 
 - Preserves original `gf` functionality for existing files
